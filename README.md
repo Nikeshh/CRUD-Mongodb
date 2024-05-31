@@ -1,4 +1,4 @@
-Implement CRUD operations in Nextjs and Mongodb
+Implementation of CRUD operations in Nextjs and Mongodb
 
 ## Getting Started
 
